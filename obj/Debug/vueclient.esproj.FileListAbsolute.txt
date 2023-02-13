@@ -1,0 +1,2 @@
+C:\KURSI\js\client\vueclient\obj\Debug\vueclient.esproj.SuggestedBindingRedirects.cache
+C:\KURSI\js\client\vueclient\obj\Debug\vueclient.esproj.CoreCompileInputs.cache
